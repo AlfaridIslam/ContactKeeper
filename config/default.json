@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://alfaridislam:merndeveloper@cluster0.falxy1m.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://alfaridislam:<password>@cluster0.falxy1m.mongodb.net/?retryWrites=true&w=majority"
     
 }
